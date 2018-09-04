@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="Player1_Rock" size="1.000000 1.403509" />
+    <ImageTarget name="Player2_Scissors" size="1.000000 1.400438" />
+    <ImageTarget name="Player1_Scissors" size="1.000000 1.401242" />
+    <ImageTarget name="Player1_Paper" size="1.000000 1.397783" />
+    <ImageTarget name="Player2_Paper" size="1.000000 1.390663" />
+    <ImageTarget name="Player2_Rock" size="1.000000 1.392818" />
+  </Tracking>
+</QCARConfig>
